@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 # from plotly import express as px
-import openpyxl
+#import openpyxl
 
 df = pd.read_csv('melbourne.csv')
 
